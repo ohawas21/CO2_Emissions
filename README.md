@@ -21,6 +21,8 @@ Divided the dataset into training and testing subsets to prepare for model evalu
 Created visualizations to better understand the data distribution and relationships between features.
 9. **Documentation**
 Thoroughly documented each step taken during preprocessing to ensure transparency and reproducibility.
+
+
 **Conclusion**
 The preprocessing of the CO2 Emissions dataset is a crucial first step in preparing the data for model training. These foundational tasks ensure the dataset is in optimal condition for subsequent analysis and modeling.
 
